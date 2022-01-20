@@ -4,6 +4,7 @@ class Pessoa {
 
     var nome: String = "Marcos"
     var cpf: String = "221.456.784-14"
+    private set
 
 }
 
